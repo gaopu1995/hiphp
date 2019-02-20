@@ -1,0 +1,19 @@
+{
+  "name": "HiPHP",
+  "description": "hi world",
+  "type": "Framework",
+  "keywords": [
+    "PHP",
+    "PHP FRAMEWORK"
+  ],
+  "require": {
+    "php": ">5.3.0",
+    "catfan/Medoo": "*"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
