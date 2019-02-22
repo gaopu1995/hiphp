@@ -11,6 +11,6 @@ class indexCtrl
 {
     public function index()
     {
-        echo "hello world";
+        echo "hiphp";
     }
 }
