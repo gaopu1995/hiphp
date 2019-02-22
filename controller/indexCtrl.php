@@ -7,7 +7,7 @@
  */
 namespace controller;
 
-class indexCtrl extends Common
+class indexCtrl
 {
     public function index()
     {

@@ -9,7 +9,7 @@ namespace controller;
 use model\medooModel;
 use core\hi_log;
 
-class testCtrl extends Common
+class testCtrl
 {
     public function index()
     {
